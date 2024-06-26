@@ -26,7 +26,6 @@ I have solved, analise multiple problems in this project. The problems are as fo
 -> Top 10 states that contributes hightest in sales.
 
 -> Relation between age and gender based on the orders.
-
 On the basis of above data analysis I have provided solutions to increase the sale of the store.
 
 
